@@ -181,4 +181,10 @@ Test change
 
 An unstaged change
 
+<<<<<<< HEAD
 A change to the master branch
+=======
+A change to the master branch
+
+Changest on my new testing branch
+>>>>>>> testing
