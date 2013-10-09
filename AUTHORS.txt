@@ -180,3 +180,7 @@ Amey Sakhadeo <me@ameyms.com>
 Test change
 
 An unstaged change
+
+A change to the master branch
+
+Changest on my new testing branch
